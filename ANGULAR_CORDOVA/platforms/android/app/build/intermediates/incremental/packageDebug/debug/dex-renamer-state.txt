@@ -1,0 +1,4 @@
+#Wed Nov 07 17:53:33 ICT 2018
+base.0=E\:\\AngularJS_Cordova\\ANGULAR_CORDOVA\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
